@@ -1,5 +1,11 @@
-# Sample Website
-
+<!DOCTYPE html>
+<html>
+<head>
+<title></title>
+</head>
+<body>
+<h1>Sample Website</h1>
+<p>
 This is a sample website made as part of [*Learn Enough™ Git to Be
 Dangerous*](https://www.learnenough.com/git-tutorial), possibly the greatest
 beginner Git tutorial in the history of the Universe. You should totally [
@@ -11,3 +17,6 @@ After finishing *Learn Enough™ Git to Be Dangerous*, you'll know enough Git
 to be *dangerous*. This means you'll be able to use Git to track changes in
 your projects, back up data, share your work with others, and collaborate
 with programmers and other users of Git.
+</p>
+</body>
+</html>
